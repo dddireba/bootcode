@@ -12,6 +12,7 @@ public class BootcodeApplication {
 
         int beanDefinitionCount = run.getBeanDefinitionCount();
         System.out.println(beanDefinitionCount);
+        System.out.println(beanDefinitionCount);
     }
 
 }
