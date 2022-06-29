@@ -18,6 +18,7 @@ public class BootcodeApplication {
         System.out.println("slave");
         System.out.println(beanDefinitionCount);
         System.out.println("push test");
+        System.out.println("push test2");
     }
 
 }
