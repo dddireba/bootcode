@@ -14,6 +14,7 @@ public class BootcodeApplication {
         System.out.println(beanDefinitionCount);
         System.out.println(beanDefinitionCount);
         System.out.println(beanDefinitionCount);
+        System.out.println(beanDefinitionCount);
     }
 
 }
